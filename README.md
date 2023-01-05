@@ -8,3 +8,8 @@ tester.
 Internet fonctionne grâce à de nombreux standards et protocoles pour permettre une
 interopérabilité entre les machines connectées. Il est toujours intéressant de connaître ce
 genre de chose.
+
+
+Collab with: ranuytte & jguigli
+
+Final grade: 125/100 (25/11/2022)
